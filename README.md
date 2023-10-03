@@ -1,4 +1,5 @@
 # Employee Management System
+![image](https://github.com/EmperialX/Employee-management-system-python/assets/98850848/1c29d6bd-7503-48f5-a14d-2b2b947d242c)
 
 This Employee Management System is a Python program designed to help companies manage their employee information efficiently. With this program, users can perform various operations related to employees, such as adding employees, calculating salaries, and finding employees with specific characteristics.
 
