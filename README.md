@@ -45,6 +45,19 @@ python -u employee_management_system.py
 ## Usage
 
 Follow the on-screen menu options to perform various employee management tasks. Input employee details, search for employees, update information, and calculate payroll effortlessly.
+```
+employee-management-system/
+│
+├── data/
+│   └── employees.txt
+│
+├── src/
+│   └── EMS.py
+│
+├── LICENSE
+│
+└── README.md
+```
 
 ## Author
 
