@@ -49,10 +49,9 @@ Follow the on-screen menu options to perform various employee management tasks. 
 employee-management-system/
 │
 ├── data/
-│   └── employees.txt
+│   └── employees.json
 │
-├── src/
-│   └── EMS.py
+├── EMS.py
 │
 ├── LICENSE
 │
