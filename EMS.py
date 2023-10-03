@@ -13,12 +13,15 @@ class Employee:
 
 class MainMenu:
     def menu(self):
-        print("\t\t*******************************************")
-        print("\t\t\t  EMPLOYEE MANAGEMENT SYSTEM")
-        print("\t\t*******************************************")
-        print("\t\t\t    --------------------")
-        print("\t\t\t     ~$ Welcome to EMS")
-        print("\t\t\t    --------------------")
+        print("\t********************************************")
+        print("\t*                                          *")
+        print("\t*     ********************************     *")
+        print("\t*     *  EMPLOYEE MANAGEMENT SYSTEM  *     *")
+        print("\t*     ********************************     *")
+        print("\t*                                          *")
+        print("\t*            [Welcome to EMS]              *")
+        print("\t*                                          *")
+        print("\t********************************************")
         print("\n\nPress 1 : To Add an Employee Details")
         print("Press 2 : To See an Employee Details ")
         print("Press 3 : To Remove an Employee")
